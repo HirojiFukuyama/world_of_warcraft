@@ -1,4 +1,4 @@
-# War of Warcraft
+# World of Warcraft
 
 This is a course project for ***Practice of Programming in C&C++*** in Peking University.
 
@@ -6,7 +6,7 @@ The course project aims to improve students' skills on object-oriented programmi
 
 The first and second parts are relatively simple, and the third and ultimate ones are much more complicated, so reference data is offered.
 
-Feel free to refer to the data and source codes, but you **MUST** do it **on your own!**
+Feel free to refer to the data and source codes, but you **MUST** do it **ON YOUR OWN!**
 
 ## ⚠️Caution⚠️
 

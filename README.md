@@ -11,5 +11,3 @@ Feel free to refer to the data and source codes, but you must do it on your own!
 ## ⚠️Caution⚠️
 
 ***This repository is only for academic usage and references. Any plagiarism behavior is not tolerated!***
-
-***Any behavior that violated relevant regulations is <u>irrelavant</u> to the repository owner!***
